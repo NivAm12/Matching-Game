@@ -1,0 +1,8 @@
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\bin\Debug\MatchingGameProj.exe
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\bin\Debug\MatchingGameProj.pdb
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\obj\Debug\MatchingGameProj.csprojAssemblyReference.cache
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\obj\Debug\MatchingGameProj.csproj.CoreCompileInputs.cache
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\obj\Debug\MatchingGameProj.csproj.CopyComplete
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\obj\Debug\MatchingGameProj.exe
+C:\Users\Niv Amos\Desktop\Files\development\Matching-Game\MatchingGameProj\obj\Debug\MatchingGameProj.pdb
